@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455445229647",
+    "project_id": "bitfi-2b32f",
+    "storage_bucket": "bitfi-2b32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455445229647:android:fb02f1b4bd2a1a9b1f7a3a",
+        "android_client_info": {
+          "package_name": "com.Harshalj.bit_fly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455445229647-rtcmk7vfp95rjirit4t5uu01mes09vm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASSHs19wg3YvMwAHavCBQsUsei0ot81Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455445229647-rtcmk7vfp95rjirit4t5uu01mes09vm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

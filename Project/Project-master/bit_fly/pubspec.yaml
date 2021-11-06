@@ -1,0 +1,28 @@
+name: bit_fly
+description: A new Flutter project.
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  custom_refresh_indicator: ^1.0.0
+  intro_screen_onboarding_flutter: ^0.1.5
+  animated_splash_screen: ^1.1.0
+  cupertino_icons: ^0.1.2
+  http: ^0.12.0+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - Image/bit.png
+    - Image/bit2.png
+
+  uses-material-design: true
+
+
